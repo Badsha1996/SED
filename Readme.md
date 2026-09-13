@@ -1,0 +1,3 @@
+# IF YOU DO NOT KNOW ANYTHING ABOUT SYSTEME DESIGN
+Start here. Start with LLD and slowly move on to HLD
+I have devided module by numbers so you can follow along. After Each module i have some homework for you to practice. I have one request, do not use AI. AS eveyhting you are seeing here is purely hand written. WHY? beacuse hard work is not a BAD thing. You may or may not be my student but trust me. IF YOU ARE GOOD WITHOUT AI, you are a GOD with AI
